@@ -1,4 +1,4 @@
-# FIRST-ORDER-LOGIC-Bahasa Prolog
+# FIRST ORDER LOGIC-Bahasa Prolog
 2106145 A.Abdul Latif
 
 Hasil Screenshot nya :
